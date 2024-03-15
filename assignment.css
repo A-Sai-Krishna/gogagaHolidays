@@ -1,0 +1,279 @@
+.gogaga-image {
+    height: 90px;
+    margin: -10px;
+}
+
+.banner-section-bg-container {
+    background-image: url("https://img.freepik.com/free-vector/realistic-travel-background-with-elements_52683-77784.jpg?t=st=1710480199~exp=1710483799~hmac=60b88981dea5baa33b7f22c94a139b86333b8d6e2de9251b9f7ed577e236f8a8&w=996");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: #073312;
+    font-family: "Cursive";
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.banner-caption {
+    color: #170bb8;
+    font-style: italic;
+    font-family: "Sans-serif";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.custom-button {
+    color: white;
+    background-image: linear-gradient(#170bb8, #4bb5e3);
+    width: 270px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.custom-outline-button {
+    color: #170bb8;
+    background-color: transparent;
+    width: 270px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #170bb8;
+    border-radius: 8px;
+}
+
+.wcu-section {
+    background-color: #f9fbfe;
+}
+
+.wcu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.wcu-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.wcu-card-image {
+    width: 87px;
+    height: 90px;
+}
+
+.wcu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.wcu-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.wcu-section {
+    background-color: #f9fbfe;
+}
+
+.wcu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.wcu-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.wcu-card-image {
+    width: 180px;
+    height: 180px;
+}
+
+.wcu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.wcu-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+
+.explore-menu-section {
+    background-color: white;
+}
+
+.menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.menu-item-image {
+    border-radius: 16px;
+}
+
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.original-price {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+    text-decoration: line-through;
+}
+
+.discount-price {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.inclusion {
+    font-weight: 500;
+    margin-top: -10px;
+    text-decoration: underline;
+}
+
+.details {
+    margin-left: 15px;
+    margin-top: -10px;
+}
+
+.menu-item-card {
+    border-radius: 16px;
+}
+
+.flight-booking-section {
+    background-image: url("https://img.freepik.com/free-vector/airplane-realistic-poster_1284-9442.jpg?t=st=1710488475~exp=1710492075~hmac=57dd179a63046282ce8e6f661ae353f1e2f5cdc21ed37b16def7dcd1bcdeaeff&w=826");
+    height: 100vh;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.input-element {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.flight-booking-heading{
+    color:white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+.flight-para {
+    font-weight: bold;
+    text-align: center;
+    font-size: 45px;
+}
+
+.price {
+    font-weight: 400;
+    font-size: 25px;
+    margin-top: -15px;
+}
+
+.output-container {
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 8px #888888;
+}
+
+.hotel-booking-section {
+    background-image: url("https://img.freepik.com/free-vector/flat-hotel-booking-application-background_23-2148158666.jpg?t=st=1710488932~exp=1710492532~hmac=7908d28172c11d6ec108fa45325724c96645fcf9e5655e69362e87ec4fdb2ff8&w=740");
+    background-size: cover;
+    height: 100vh;
+    margin: 10px;
+    border-radius: 10px;
+}
+.hotel-booking-heading{
+    color:black;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+.hotels-para {
+    color: black;
+    font-style: Italic;
+    font-weight: 400;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
